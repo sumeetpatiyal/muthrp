@@ -88,7 +88,7 @@ It contain following files, brief descript of these files given below
 
 - test                            		: This folder contains the VCF files for test run.
 
-- humandb                         		: This folder contain the files for gene mapping required by annovar script.
+- humandb.zip                         		: This zipped folder contain the files for gene mapping required by annovar script.
 
 - clinical_data.tsv               		: This file contains the clinical data i.e. OS and OS.time for each patient.
 
