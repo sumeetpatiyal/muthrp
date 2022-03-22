@@ -12,3 +12,6 @@ LICENSE filter=lfs diff=lfs merge=lfs -text
 README.md filter=lfs diff=lfs merge=lfs -text
 convert2annovar.pl filter=lfs diff=lfs merge=lfs -text
 humandb.zip filter=lfs diff=lfs merge=lfs -text
+ENT_Mutect2_VCF_Regression.pkl filter=lfs diff=lfs merge=lfs -text
+LR_Mutect2_VCF_Classification.pkl filter=lfs diff=lfs merge=lfs -text
+test.zip filter=lfs diff=lfs merge=lfs -text
